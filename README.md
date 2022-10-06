@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**CrazyGuyExe/CrazyGuyExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crazyguyexe&label=Profile%20views&color=0e75b6&style=flat" alt="crazyguyexe" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **learning to do something more then cookie clicker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **How to do sumthing in java sc**
+
+- 📫 How to reach me **matescz25l@seznam.cz**
+
+- ⚡ Fun fact **Im smol**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/crazyguy_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crazyguy_exe" height="30" width="40" /></a>
+<a href="https://instagram.com/crazyguy_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crazyguy_exe" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
