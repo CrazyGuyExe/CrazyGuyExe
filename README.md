@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **learning to do something more then cookie clicker**
 
-- 🌱 I’m currently learning **How to do sumthing in java sc**
+- 🌱 I’m currently learning **How to do something in java sc**
 
 - 📫 How to reach me **matescz25l@seznam.cz**
 
