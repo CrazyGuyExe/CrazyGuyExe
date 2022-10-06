@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazyguyexe&label=Profile%20views&color=0e75b6&style=flat" alt="crazyguyexe" /> </p>
 
-- 🔭 I’m currently working on **learning to do something more then cookie clicker**
+- 🔭 I’m currently working on **learning to do something more than cookie clicker**
 
 - 🌱 I’m currently learning **How to do sumthing in java sc**
 
