@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **How to do sumthing in java sc**
 
-- 💬 **if you ask me if I'm furry I will come out of your closet at 3 am**
-
 - 📫 How to reach me **matescz25l@seznam.cz**
 
 - ⚡ Fun fact **Im smol**
